@@ -4,7 +4,7 @@
 function question0 (array) {
   // Write your code here! Make sure not to modify the function
   // declaration above or the `module.exports` code below
-  for(let i = 0; i < array.length; i++){
+  for(let i = 0; i < result.length; i++){
     if(array[i] % 2 === 0){
     console.log(array[i])
     }
